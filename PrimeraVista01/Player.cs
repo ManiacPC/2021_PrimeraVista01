@@ -8,6 +8,8 @@ namespace PrimeraVista01
 {
     class Player
     {
+        // UN COMENTARIO NUEVO, HICE UN CAMBIO EN EL CÓDIGO
+
         // atributos
         private string nickname;
         private int hp = 100; // health points = puntos de vida
